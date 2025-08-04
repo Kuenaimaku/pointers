@@ -1,18 +1,22 @@
 {
   "title": "Pointers",
   "description": "Use hotkeys to show icons at your cursor",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "scripts": [
     "pointers.js"
   ],
-  "url": "https://github.com/xaukael/pointers",
+  "url": "https://github.com/kuenaimaku/pointers",
   "socket": true,
-  "manifest": "https://raw.githubusercontent.com/xaukael/pointers/main/module.json",
-  "download": "https://raw.githubusercontent.com/xaukael/pointers/main/pointers.zip",
+  "manifest": "https://raw.githubusercontent.com/kuenaimaku/pointers/main/module.json",
+  "download": "https://raw.githubusercontent.com/kuenaimaku/pointers/main/pointers.zip",
   "id": "pointers",
   "authors": [
     {
       "name": "Xaukael",
+      "flags": {}
+    },
+    {
+      "name": "Kuenaimaku",
       "flags": {}
     }
   ],
@@ -27,6 +31,6 @@
   },
   "compatibility": {
     "minimum": "10",
-    "verified": "12"
+    "verified": "13"
   }
 }
